@@ -15,6 +15,4 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 - Cart
 - Login / Register
 
-# ScreenShot
-
 
